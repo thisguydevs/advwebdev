@@ -4,10 +4,11 @@
 
 __*Started June 25th, 2018.*__
 
+___
 
 ###### Section 2 - CSS Animations: Transforms and Transitions
 Started: 06.25.2018
-Completed: 
+Completed: 06.27.2018
 
 __*What was covered*__
   * Pseudo-Classes
@@ -25,3 +26,11 @@ __*What was covered*__
     * Transition-Property
     * Tranition-Timing-Function
     * Transition-Delay
+* Vendor Prefixes
+* CSS Animation Performance
+* Building an Animated Gallery
+---
+
+###### Section 3 - CSS Animations: Keyframes
+Started: 06.27.2018
+Completed:
