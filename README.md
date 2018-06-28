@@ -55,3 +55,5 @@ __*What was covered*__
 - [x] Rising and Setting Sun Animation
 *   Animation Shorthand
     *   Combining `animation` into a single line
+- [ ] Build an Animated CSS Loading Icon
+*   
