@@ -33,7 +33,7 @@ __*What was covered*__
 
 ###### Section 3 - CSS Animations: Keyframes
 Started: 06.27.2018
-Completed: 
+Completed: 06.28.2018
 
 __*What was covered*__
 *   animation-name
@@ -55,5 +55,39 @@ __*What was covered*__
 - [x] Rising and Setting Sun Animation
 *   Animation Shorthand
     *   Combining `animation` into a single line
-- [ ] Build an Animated CSS Loading Icon
-*   
+- [X] Build an Animated CSS Loading Icon
+---
+
+###### Section 4 - Advanced CSS: Layout With Flexbox
+Started: 06.28.2018
+Completed: 
+
+__*What was covered*__
+*   Flexbox Container Properties
+    *   `flex-direction`
+        *   specifies how items are placed in the flex container, defining the main axis and it's direction
+        *   default value is `row`
+        *   `row-reverse` reverses the direction of the main axis
+        *   `column` makes it go down starting with first item at the top
+        *   `column-reverse` makes it go down starting with last item at the top
+    *   `justify-content`
+        *   defines how space is distributed between items in flex container along the main axis
+            *   `: flex end` moves all content to the right side
+            *   `: center` centers content with spaces on both sides
+            *   `: space-between` gives equal space between elements, no space on ends
+            *   `: space-around` gives equal amount of space to both sides of an item
+    *   `flex-wrap`
+        *   specifies whether items are forced into a single line OR can be wrapped into multiple lines
+        *   `flex-wrap: wrap`
+    *   `align-items`
+        *   defines how space is distributed between items in flex container along the corss axis
+    *   `align-content`
+*  Flexbox Flex Item Properties
+    *  `order`
+    *  `flex`
+    *  `flex-grow`
+    *  `flex-shrink`
+    *  `align-self`
+*  `display: flex`
+    *  groups onto same line
+- [ ] Flexbox Sidebar Exercise
