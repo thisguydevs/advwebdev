@@ -112,6 +112,14 @@ __*What was covered*__
 
 ###### Section 5 - Project: Building a Startup Site
 Started: 07.03.2018
-Completed: 
+Completed: 07.03.2018
+
+__*What was covered*__
+- [X] Build Mountain Travel Starup Website
+---
+
+###### Section 6 - Async Founations
+Started: 07.03.2018
+Completed:
 
 __*What was covered*__
