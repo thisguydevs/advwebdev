@@ -60,7 +60,7 @@ __*What was covered*__
 
 ###### Section 4 - Advanced CSS: Layout With Flexbox
 Started: 06.28.2018
-Completed: 
+Completed: 07.02.2018
 
 __*What was covered*__
 *   Flexbox Container Properties
@@ -81,13 +81,37 @@ __*What was covered*__
         *   `flex-wrap: wrap`
     *   `align-items`
         *   defines how space is distributed between items in flex container along the corss axis
+        *   `: flex-start` items aligned top of cross axis
+        *   `: flex-end` items aligned bottom of cross axis
+        *   `: stretch` items are stretched to fill entire cross axis (default value)
+        *   `: center` items are centered along cross axis
+        *   `: baseline` align items based on the baseline of the text/font
     *   `align-content`
+        *   defines how space is distrubuted BETWEEN ROWS in flex container along the cross axis
+        *   `: flex-start` items aligned top
+        *   `: flex-end` items aligned bottom
+        *   `: space-between` first and last rows get pushed to top and bottom, equal space in between
+        *   `: space-around` equal space between rows, 1/2 that amount of space between top and bottom
+        *   `: center` aligns in the center with no space between rows, equal space top and bottom
 *  Flexbox Flex Item Properties
-    *  `order`
-    *  `flex`
-    *  `flex-grow`
-    *  `flex-shrink`
-    *  `align-self`
+    *  `order` specifies the order used to layout items in their clex container
+        *  all itmes by default have an order of '0', use negative
+    *  `flex` defines how a flex item will grow or shrink to fit the available space in a container
+        *  shothand property for 3 other properties
+            *  `flex-basis` sort of like width (rows) or height (columns), but not; specifies the ideal size of a flex item BEFORE it's palced into a flex container
+            *  `flex-grow` dictates how the unused space should be spread amongst flex items
+            *  `flex-shrink` dictates how items should shrink when there isn't enough space in container
+                *  1 is default value
+            *  `align-self` allows you to override align-items on individual items
 *  `display: flex`
     *  groups onto same line
-- [ ] Flexbox Sidebar Exercise
+- [X] Flexbox Sidebar Exercise
+- [X] Building a Polygon.com Widget
+- [X] Holy Grail layout
+---
+
+###### Section 5 - Project: Building a Startup Site
+Started: 07.03.2018
+Completed: 
+
+__*What was covered*__

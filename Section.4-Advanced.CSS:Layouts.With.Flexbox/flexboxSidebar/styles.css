@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background: #ecf0f1;
+}
+
+.sidebar {
+    display: flex;
+    height: 100vh;
+    width: 15vw;
+    font-family: raleway;
+    background-color: #34495e;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item {
+    color: white;
+    font-size: 20px;
+}
+
+.section {
+    
+}
+
+.section .item {
+    padding: 10px;
+}
