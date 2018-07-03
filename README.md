@@ -7,7 +7,7 @@ __*Started June 25th, 2018.*__
 ___
 
 ###### Section 2 - CSS Animations: Transforms and Transitions
-Started: 06.25.2018
+Started: 06.25.2018  
 Completed: 06.27.2018
 
 __*What was covered*__
@@ -32,7 +32,7 @@ __*What was covered*__
 ---
 
 ###### Section 3 - CSS Animations: Keyframes
-Started: 06.27.2018
+Started: 06.27.2018  
 Completed: 06.28.2018
 
 __*What was covered*__
@@ -59,7 +59,7 @@ __*What was covered*__
 ---
 
 ###### Section 4 - Advanced CSS: Layout With Flexbox
-Started: 06.28.2018
+Started: 06.28.2018  
 Completed: 07.02.2018
 
 __*What was covered*__
@@ -111,7 +111,7 @@ __*What was covered*__
 ---
 
 ###### Section 5 - Project: Building a Startup Site
-Started: 07.03.2018
+Started: 07.03.2018  
 Completed: 07.03.2018
 
 __*What was covered*__
@@ -119,7 +119,7 @@ __*What was covered*__
 ---
 
 ###### Section 6 - Async Founations
-Started: 07.03.2018
+Started: 07.03.2018  
 Completed:
 
 __*What was covered*__
