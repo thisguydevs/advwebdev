@@ -2,3 +2,10 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <?xml version="1.0" ?>
 <tv generator-info-name="Custom IPTV to XMLTV Converter"/>
+<channel id="https://dlhd.click/stream/stream-44.php">
+<display-name>ESPN</display-name>
+</channel>
+<channel id="https://dlhd.click/stream/stream-51.php">
+<display-name>ABC US</display-name>
+</tv>
+
